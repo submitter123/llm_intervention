@@ -1,0 +1,51 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+
+# ML & DL
+huggingface_hub
+torchtext
+torchinfo
+diffusers
+wandb # ==0.13.10
+accelerate
+ftfy
+safetensors
+openai>=1.56.2
+sentence-transformers
+
+# data visualization and analysis
+pandas
+numpy-stl
+scikit-learn
+
+# Utilities
+requests
+pytest
+tqdm
+ipykernel
+notebook
+ipywidgets==7.7.1
+jupyterlab-widgets==1.1.1
+jupyter
+pre-commit
+gdown
+portalocker>=2.0.0
+typeguard
+jaxtyping
+tiktoken
+frozendict
+tabulate
+opencv-python
+nbformat
+
+# Visualization
+matplotlib
+plotly
+nnsight>=0.3.5
+
+# mechanistic related
+transformer_lens==2.11.0
+sae-lens>=4.0.0,<5.0.0
+sae-vis>=0.3.1
