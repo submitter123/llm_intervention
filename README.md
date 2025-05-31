@@ -1,4 +1,4 @@
-# Intervention Experiments on Large Language Models
+# Polysemantic Intervention on Large Language Models
 ## Steering with feature direction
 
 ## Steering with token gradient vector
