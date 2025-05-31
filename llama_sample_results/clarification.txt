@@ -1,1 +1,2 @@
 Sample of experiments on steering llama3.1-8b-instruct model with gradient vectors extracted from activation texts. The interference features can be checked on Neuronpedia.
+More to be added.
